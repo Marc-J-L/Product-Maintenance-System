@@ -1,0 +1,7 @@
+E:\VS-project\source\repos\MaintainProducts\obj\Release\MaintainProducts.csproj.AssemblyReference.cache
+E:\VS-project\source\repos\MaintainProducts\obj\Release\AddProduct.g.cs
+E:\VS-project\source\repos\MaintainProducts\obj\Release\MainWindow.g.cs
+E:\VS-project\source\repos\MaintainProducts\obj\Release\ModifyProduct.g.cs
+E:\VS-project\source\repos\MaintainProducts\obj\Release\App.g.cs
+E:\VS-project\source\repos\MaintainProducts\obj\Release\MaintainProducts_MarkupCompile.cache
+E:\VS-project\source\repos\MaintainProducts\obj\Release\MaintainProducts_MarkupCompile.lref
